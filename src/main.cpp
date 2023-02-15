@@ -27,7 +27,7 @@ int main()
     else if (op == ":") {result = num1 / num2;}
     else {cout << "Wrong Operator" << "\n";}
 
-    cout << num1 << op << num2 << "=" << result << "\n";
+    cout << num1 << " " << op << " " << num2 << " " << "=" << " " << result << "\n";
 
     label_todo:
 
